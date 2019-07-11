@@ -1,4 +1,4 @@
-const Discord = require('discord.js');
+'NTk4NzU5NDY3MDE3ODMwNDAw.XSbldg.PC5N8akkNTJFNnbWfd3IwfWd_V0'const Discord = require('discord.js');
 const devs = ['389090790984515594'];
 const db = require('quick.db');
 const premium = ['470896018603376640']
@@ -3524,4 +3524,4 @@ client.on('guildMemberAdd', member => {
 return channel.send("")
     }
     )});
-client.login(process.env.BOT_TOKEN)
+client.login('NTk4NzU5NDY3MDE3ODMwNDAw.XSbldg.PC5N8akkNTJFNnbWfd3IwfWd_V0')
